@@ -1,0 +1,35 @@
+Test Medical Document for Upload
+
+HEART DISEASE INFORMATION
+
+Coronary artery disease (CAD) is a condition where the major blood vessels that supply the heart become damaged or diseased. The main cause is the buildup of plaque in the arteries.
+
+Symptoms of heart disease include:
+- Chest pain or discomfort
+- Shortness of breath
+- Fatigue
+- Irregular heartbeat
+- Swelling in legs, feet, or ankles
+
+Risk factors for heart disease:
+- High blood pressure
+- High cholesterol
+- Smoking
+- Diabetes
+- Obesity
+- Family history
+- Age
+- Stress
+
+Treatment options include:
+- Lifestyle changes (diet, exercise)
+- Medications (statins, blood thinners, ACE inhibitors)
+- Medical procedures (angioplasty, bypass surgery)
+
+Prevention strategies:
+- Regular exercise
+- Healthy diet
+- No smoking
+- Limit alcohol
+- Manage stress
+- Regular checkups

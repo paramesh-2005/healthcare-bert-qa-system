@@ -1,0 +1,181 @@
+MEDICAL KNOWLEDGE BASE - SAMPLE DOCUMENTS
+
+=== CARDIOVASCULAR HEALTH ===
+
+Hypertension Management Guidelines
+
+Hypertension, defined as blood pressure consistently above 140/90 mmHg, affects approximately 45% of adults in the United States. The condition is a major risk factor for cardiovascular disease, stroke, and kidney disease.
+
+Classification of Blood Pressure:
+- Normal: Less than 120/80 mmHg
+- Elevated: Systolic 120-129 and diastolic less than 80
+- Stage 1 Hypertension: Systolic 130-139 or diastolic 80-89
+- Stage 2 Hypertension: Systolic 140/90 or higher
+
+Treatment approaches include lifestyle modifications such as dietary changes (DASH diet), regular exercise, weight management, and stress reduction. Pharmacological interventions may include ACE inhibitors, ARBs, calcium channel blockers, and diuretics.
+
+Heart Attack Recognition and Response
+
+Myocardial infarction (heart attack) occurs when blood flow to the heart muscle is blocked, typically by a blood clot in a coronary artery. Immediate recognition and treatment are crucial for patient outcomes.
+
+Common symptoms include:
+- Chest pain or discomfort (pressure, squeezing, fullness)
+- Shortness of breath
+- Pain radiating to arms, back, neck, jaw, or stomach
+- Cold sweats, nausea, lightheadedness
+
+Women may experience atypical symptoms including unusual fatigue, nausea, or back pain. The acronym FAST (Face, Arms, Speech, Time) is used for stroke recognition, while for heart attacks, remember to call emergency services immediately.
+
+=== DIABETES MANAGEMENT ===
+
+Type 2 Diabetes Overview
+
+Type 2 diabetes mellitus is a chronic metabolic disorder characterized by insulin resistance and relative insulin deficiency. It affects over 34 million Americans and is the seventh leading cause of death in the United States.
+
+Pathophysiology involves progressive beta-cell dysfunction and insulin resistance in peripheral tissues. Risk factors include obesity, sedentary lifestyle, family history, age over 45, and certain ethnic backgrounds.
+
+Diagnostic criteria:
+- Fasting plasma glucose ≥126 mg/dL
+- 2-hour plasma glucose ≥200 mg/dL during oral glucose tolerance test
+- HbA1c ≥6.5%
+- Random plasma glucose ≥200 mg/dL with symptoms
+
+Management includes lifestyle interventions (diet, exercise, weight loss) and pharmacological therapy. First-line medication is typically metformin, with additional agents added based on individual patient factors and glycemic targets.
+
+Insulin Therapy
+
+Insulin is a hormone produced by pancreatic beta cells that regulates glucose metabolism. In diabetes, insulin therapy may be necessary when oral medications are insufficient to achieve glycemic control.
+
+Types of insulin:
+- Rapid-acting: Onset 15 minutes, peak 1-2 hours, duration 3-4 hours
+- Short-acting: Onset 30 minutes, peak 2-3 hours, duration 3-6 hours
+- Intermediate-acting: Onset 2-4 hours, peak 4-12 hours, duration 12-18 hours
+- Long-acting: Onset 6-10 hours, minimal peak, duration 20-24 hours
+
+Insulin administration requires proper injection technique, site rotation, and blood glucose monitoring. Hypoglycemia is the most common adverse effect, with symptoms including sweating, tremor, confusion, and in severe cases, loss of consciousness.
+
+=== RESPIRATORY CONDITIONS ===
+
+Pneumonia Diagnosis and Treatment
+
+Pneumonia is an infection that inflames air sacs in one or both lungs, which may fill with fluid or pus. It can be caused by bacteria, viruses, or fungi and ranges from mild to life-threatening.
+
+Clinical presentation includes:
+- Cough with purulent sputum production
+- Fever and chills
+- Shortness of breath
+- Chest pain that worsens with breathing or coughing
+- Fatigue and malaise
+
+Diagnostic workup typically includes chest X-ray, complete blood count, and sputum culture when possible. Severity assessment tools like CURB-65 or PSI help determine appropriate treatment setting.
+
+Treatment depends on the causative organism and severity. Bacterial pneumonia is treated with antibiotics, while viral pneumonia is managed supportively. Hospitalization may be required for severe cases or patients with comorbidities.
+
+Asthma Management
+
+Asthma is a chronic inflammatory disorder of the airways characterized by variable airflow obstruction, bronchial hyperresponsiveness, and underlying inflammation. It affects approximately 25 million Americans.
+
+Pathophysiology involves airway inflammation, smooth muscle constriction, and mucus hypersecretion. Triggers include allergens, irritants, respiratory infections, exercise, and emotional stress.
+
+Classification by control:
+- Well-controlled: Minimal symptoms, normal activity, infrequent rescue inhaler use
+- Not well-controlled: Symptoms >2 days/week, activity limitation, frequent rescue inhaler use
+- Very poorly controlled: Symptoms throughout the day, severe activity limitation
+
+Treatment follows a stepwise approach with controller medications (inhaled corticosteroids, long-acting beta-agonists) and rescue medications (short-acting beta-agonists). Patient education on proper inhaler technique and trigger avoidance is essential.
+
+=== INFECTIOUS DISEASES ===
+
+Antibiotic Resistance
+
+Antibiotic resistance occurs when bacteria develop the ability to survive exposure to antibiotics that would normally kill them or stop their growth. This is a growing global health threat that makes infections harder to treat.
+
+Mechanisms of resistance include:
+- Enzymatic inactivation of antibiotics
+- Alteration of target sites
+- Decreased permeability or increased efflux
+- Bypass of metabolic pathways
+
+Contributing factors include overuse and misuse of antibiotics, inadequate infection control, poor sanitation, and lack of new antibiotic development. Healthcare providers must practice antibiotic stewardship by prescribing appropriately and educating patients about proper use.
+
+Prevention strategies include completing prescribed antibiotic courses, not sharing antibiotics, and not pressuring healthcare providers for antibiotics when they're not indicated.
+
+Viral vs Bacterial Infections
+
+Distinguishing between viral and bacterial infections is crucial for appropriate treatment decisions, as antibiotics are only effective against bacterial infections.
+
+Viral infections:
+- Often have gradual onset
+- May include runny nose, sore throat, cough
+- Fever typically lower grade
+- Symptoms often resolve within 7-10 days
+- Treatment is supportive (rest, fluids, symptom management)
+
+Bacterial infections:
+- May have more abrupt onset
+- Often present with higher fever
+- May have localized symptoms (ear pain, sinus pressure)
+- Symptoms may worsen or persist beyond 10 days
+- Require antibiotic treatment
+
+Laboratory tests such as white blood cell count, C-reactive protein, and specific cultures can help differentiate when clinical presentation is unclear.
+
+=== MEDICATION SAFETY ===
+
+Common Drug Interactions
+
+Drug interactions occur when one medication affects the activity of another when both are administered together. These interactions can increase or decrease the effectiveness of medications or cause adverse effects.
+
+Types of interactions:
+- Pharmacokinetic: Affecting absorption, distribution, metabolism, or excretion
+- Pharmacodynamic: Affecting the drug's action at the target site
+- Pharmaceutical: Physical or chemical incompatibility
+
+High-risk medications for interactions include warfarin, digoxin, lithium, and medications with narrow therapeutic windows. Patients taking multiple medications (polypharmacy) are at increased risk.
+
+Prevention strategies include maintaining accurate medication lists, using single pharmacy when possible, and regular medication reviews with healthcare providers.
+
+Aspirin Therapy
+
+Aspirin is a widely used medication with analgesic, antipyretic, anti-inflammatory, and antiplatelet properties. It's commonly used for pain relief, fever reduction, and cardiovascular protection.
+
+Mechanism of action involves irreversible inhibition of cyclooxygenase (COX) enzymes, reducing prostaglandin synthesis. This accounts for both therapeutic effects and side effects.
+
+Common side effects:
+- Gastrointestinal: Stomach upset, heartburn, ulcers
+- Bleeding: Increased bleeding time due to platelet inhibition
+- Allergic reactions: Rash, bronchospasm in sensitive individuals
+
+Contraindications include active bleeding, severe liver disease, and known hypersensitivity. Caution is advised in patients with peptic ulcer disease, kidney disease, or those taking anticoagulants.
+
+Low-dose aspirin (75-100 mg daily) is used for cardiovascular protection in appropriate patients, while higher doses are used for anti-inflammatory effects.
+
+=== PREVENTIVE CARE ===
+
+Vaccination Guidelines
+
+Vaccines are one of the most effective public health interventions for preventing infectious diseases. They work by stimulating the immune system to develop immunity against specific pathogens.
+
+Adult vaccination schedule includes:
+- Annual influenza vaccine for all adults
+- Tdap (tetanus, diphtheria, pertussis) every 10 years
+- MMR (measles, mumps, rubella) for adults born after 1957 without immunity
+- Varicella (chickenpox) for adults without immunity
+- Zoster (shingles) for adults 50 and older
+- Pneumococcal vaccines for adults 65 and older or with certain conditions
+
+Special considerations apply for immunocompromised patients, pregnant women, and healthcare workers. Contraindications include severe illness, known allergies to vaccine components, and certain immunodeficiency states.
+
+Cancer Screening
+
+Early detection through screening can significantly improve cancer outcomes by identifying disease before symptoms develop.
+
+Recommended screenings:
+- Mammography: Women 50-74 years, every 2 years
+- Cervical cancer: Women 21-65 years, Pap smear every 3 years
+- Colorectal cancer: Adults 45-75 years, various methods available
+- Lung cancer: High-risk individuals 50-80 years with smoking history
+- Prostate cancer: Discuss with provider for men 50-70 years
+
+Screening recommendations may vary based on individual risk factors, family history, and professional guidelines. Shared decision-making between patients and providers is important for determining appropriate screening strategies.
+

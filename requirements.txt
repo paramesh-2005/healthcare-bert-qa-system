@@ -1,0 +1,71 @@
+# Core ML and NLP libraries
+torch>=2.0.0
+transformers>=4.30.0
+sentence-transformers>=2.2.0
+datasets>=2.12.0
+tokenizers>=0.13.0
+
+# Vector search and similarity
+faiss-cpu>=1.7.4
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Web framework and API
+flask>=2.3.0
+flask-cors>=4.0.0
+flask-restful>=0.3.10
+gunicorn>=20.1.0
+
+# Frontend and UI
+streamlit>=1.25.0
+plotly>=5.15.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Data processing
+pandas>=2.0.0
+PyMuPDF>=1.22.0
+pdfplumber>=0.9.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+openpyxl>=3.1.0
+
+# Database and storage
+redis>=4.5.0
+sqlalchemy>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+pyyaml>=6.0
+tqdm>=4.65.0
+requests>=2.31.0
+click>=8.1.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.0
+httpx>=0.24.0
+
+# Development tools
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.4.0
+pre-commit>=3.3.0
+
+# Deployment
+# docker>=6.1.0
+# kubernetes>=26.1.0
+
+# Monitoring and logging
+prometheus-client>=0.17.0
+structlog>=23.1.0
+
+# Security
+cryptography>=41.0.0
+bcrypt>=4.0.0
+
+# Healthcare-specific
+# pydicom>=2.4.0
+# hl7apy>=1.3.0
+

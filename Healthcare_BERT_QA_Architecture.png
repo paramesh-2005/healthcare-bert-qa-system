@@ -1,0 +1,13 @@
+[ARCHITECTURE DIAGRAM]
+
++-------------------+      +-------------------+      +-------------------+
+|   Streamlit UI    |<---->|   Flask API       |<---->|   QA Engine       |
+| (frontend)        |      | (enhanced_full_   |      | (BioBERT, KB,     |
+|                   |      |  api.py)          |      |  Document Search) |
++-------------------+      +-------------------+      +-------------------+
+        |                        |                        |
+        v                        v                        v
++-------------------+      +-------------------+      +-------------------+
+| User Uploads      |      | Knowledge Base    |      | Models/Checkpoints|
+| (Documents)       |      | (Medical Info)    |      | (BioBERT)         |
++-------------------+      +-------------------+      +-------------------+
