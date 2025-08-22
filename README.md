@@ -2,7 +2,7 @@
 
 A comprehensive question-answering system for healthcare and biomedical domains using BioBERT and advanced NLP techniques.
 
-## 🏥 Overview
+##  Overview
 
 The Healthcare BERT QA System is a production-ready, AI-powered question-answering platform specifically designed for medical and healthcare applications. Built on BioBERT (Bidirectional Encoder Representations from Transformers for Biomedical Text Mining), this system provides accurate, contextually relevant answers to healthcare-related questions while maintaining the highest standards of medical accuracy and safety.
 
@@ -17,7 +17,7 @@ The Healthcare BERT QA System is a production-ready, AI-powered question-answeri
 - **Scalable Architecture**: Designed for production deployment with monitoring and logging
 - **Healthcare Compliance**: Audit logging and security features for healthcare environments
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -71,7 +71,7 @@ docker run -p 5000:5000 -p 8501:8501 healthcare-qa
 - [Deployment Guide](docs/deployment.md)
 - [Development Guide](docs/development.md)
 
-## 🔧 Configuration
+##  Configuration
 
 The system can be configured through environment variables or the `config.py` file:
 
@@ -88,7 +88,7 @@ Key configuration options:
 - `MAX_SEQUENCE_LENGTH`: Maximum input sequence length (default: 512)
 - `MIN_CONFIDENCE_SCORE`: Minimum confidence threshold (default: 0.1)
 
-## 🏗️ Architecture
+##  Architecture
 
 The system follows a modular architecture with clear separation of concerns:
 
@@ -104,7 +104,7 @@ The system follows a modular architecture with clear separation of concerns:
 └── deployment/        # Deployment configurations
 ```
 
-## 🧪 Testing
+##  Testing
 
 Run the test suite to verify installation:
 
@@ -117,7 +117,7 @@ python -m pytest tests/unit/
 python -m pytest tests/integration/
 ```
 
-## 📊 Performance
+##  Performance
 
 The system has been tested with the following performance characteristics:
 
@@ -126,7 +126,7 @@ The system has been tested with the following performance characteristics:
 - **Throughput**: 100+ questions per minute (with GPU)
 - **Memory Usage**: 4-8GB RAM depending on model size
 
-## 🔒 Security & Compliance
+##  Security & Compliance
 
 This system is designed with healthcare compliance in mind:
 
@@ -136,7 +136,7 @@ This system is designed with healthcare compliance in mind:
 - **Rate Limiting**: Protection against abuse
 - **Medical Disclaimers**: Prominent disclaimers on all responses
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
@@ -146,27 +146,27 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 4. Add tests
 5. Submit a pull request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ⚠️ Medical Disclaimer
+## ⚠ Medical Disclaimer
 
 **IMPORTANT**: This system provides information for educational purposes only. It is not intended to replace professional medical advice, diagnosis, or treatment. Always consult with qualified healthcare professionals for medical decisions.
 
-## 🆘 Support
+##  Support
 
 - **Documentation**: Check the [docs/](docs/) directory
 - **Issues**: Report bugs on [GitHub Issues](https://github.com/your-username/healthcare-bert-qa-system/issues)
 - **Discussions**: Join our [GitHub Discussions](https://github.com/your-username/healthcare-bert-qa-system/discussions)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **BioBERT Team**: For the excellent biomedical language model
 - **HuggingFace**: For the transformers library and model hosting
 - **Healthcare Community**: For feedback and testing
 
-## 📈 Roadmap
+##  Roadmap
 
 - [ ] Multi-language support
 - [ ] Integration with medical databases (UMLS, SNOMED CT)
@@ -175,7 +175,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Voice interface
 - [ ] Clinical decision support features
 
----
 
-**Built with ❤️ by Manus AI for the healthcare community**
 
